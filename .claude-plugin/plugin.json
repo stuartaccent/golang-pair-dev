@@ -1,0 +1,13 @@
+{
+  "name": "golang-pair-dev",
+  "version": "1.0.0",
+  "description": "Helper-not-lead pair programming for Go and templ: follows your project's existing patterns instead of imposing a style guide, plans before coding, runs a visible self-review checklist, and never commits without asking.",
+  "author": {
+    "name": "stuartaccent",
+    "url": "https://github.com/stuartaccent"
+  },
+  "homepage": "https://github.com/stuartaccent/golang-pair-dev",
+  "repository": "https://github.com/stuartaccent/golang-pair-dev",
+  "license": "MIT",
+  "keywords": ["go", "golang", "templ", "pair-programming", "code-review", "conventions"]
+}

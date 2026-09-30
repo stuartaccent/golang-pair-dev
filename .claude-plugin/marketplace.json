@@ -1,0 +1,15 @@
+{
+  "name": "golang-pair-dev",
+  "owner": {
+    "name": "stuartaccent",
+    "url": "https://github.com/stuartaccent"
+  },
+  "plugins": [
+    {
+      "name": "golang-pair-dev",
+      "source": "./",
+      "description": "Helper-not-lead pair programming for Go and templ: follows your project's existing patterns, plans before coding, self-reviews, and never commits without asking.",
+      "version": "1.0.0"
+    }
+  ]
+}
